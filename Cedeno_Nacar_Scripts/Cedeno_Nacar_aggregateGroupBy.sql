@@ -1,0 +1,1 @@
+SELECT department_id, count(*) as "Jobs"  from "cedeno_hr".employees  group by(department_id

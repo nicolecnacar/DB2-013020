@@ -1,0 +1,1 @@
+SELECT job_id as "Job", SUM(salary) as "total salary" FROM "cedeno_hr".employees group by(job_id); 

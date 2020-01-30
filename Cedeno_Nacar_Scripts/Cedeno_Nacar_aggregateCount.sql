@@ -1,0 +1,1 @@
+SELECT region_id as "Region" ,count(country_name) as "Countries" FROM "cedeno_hr".countries  GROUP BY(region_id)  order by region_id asc 

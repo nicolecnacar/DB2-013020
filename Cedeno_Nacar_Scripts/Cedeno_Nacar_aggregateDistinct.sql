@@ -1,0 +1,1 @@
+SELECT DISTINCT country_id as "Country"  from "cedeno_hr".locations 

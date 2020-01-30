@@ -1,0 +1,1 @@
+SELECT job_id as "Job", avg(salary) as "Average salary" FROM "cedeno_hr".employees group by(job_id); 

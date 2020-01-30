@@ -1,0 +1,1 @@
+SELECT max(max_salary) as "Maximum Salary"  from "cedeno_hr".jobs 

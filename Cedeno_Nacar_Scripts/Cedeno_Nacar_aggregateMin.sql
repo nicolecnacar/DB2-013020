@@ -1,0 +1,1 @@
+SELECT min(min_salary)  as "Minimum salary" from "cedeno_hr".jobs
